@@ -1,5 +1,3 @@
-# Muhammad Ilman Mughni
-# NPM: 2006537324
 # Program perkalian matriks tanpa numpy
 
 m = int(input('masukkan jumlah baris untuk matriks 1: '))
